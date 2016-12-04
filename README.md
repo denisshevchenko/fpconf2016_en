@@ -1,5 +1,5 @@
-# Haskell: изящные типы
+# Haskell:  elegant types
 
-Доклад о LiquidHaskell, для [FPConf](http://fpconf.ru/), Москва, 3 декабря 2016 года.
+LiquidHaskell talk, for [FPConf](http://fpconf.ru/), Moscow, 3 December 2016.
 
-Слайды доступны [онлайн](https://denisshevchenko.github.io/fpconf2016/#/).
+Slides are [online](https://denisshevchenko.github.io/fpconf2016_en/#/).
